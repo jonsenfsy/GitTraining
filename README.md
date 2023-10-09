@@ -1,3 +1,3 @@
 # GitTraining
 
-learning how o use git hub
+learning how to use git hub
